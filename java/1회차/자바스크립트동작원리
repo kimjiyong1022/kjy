@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatile" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>자바스크립트 동작원리</title>
+</head>
+<body>
+
+    <script>
+
+      window.alert('당신... 자꾸 그러면 경고야!')
+      window.alert('좋은 말로 할 때 그만 했어야지!')
+
+    </script>
+</body>
+</html>
